@@ -9,7 +9,7 @@ if testNum > 1:
             print(testNum, " is not a prime number")
             print(i," times ", testNum//i, "is ", testNum)
             break
-elif:
-    print(testNum, " is a prime number")
+    else:
+        print(testNum, " is a prime number")
 else:
     print("You must enter an integer greater than 1.")
